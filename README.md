@@ -1,4 +1,4 @@
-## Yerin Gwak
+## Welcome! It's Yerin 🔆
 
 Hello, this is Yerin Gwak's github. 
 
