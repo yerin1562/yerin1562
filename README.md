@@ -6,7 +6,7 @@
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Eyes.png" alt="Eyes" width="2%" /> 
 
 
-[![blog](https://img.shields.io/badge/Ghost-000?style=for-the-badge&logo=ghost&logoColor=yellow)]([https://your-blog-link.com](https://yerin-gwak.ghost.io/ghost/#/site))
+[![blog](https://img.shields.io/badge/Ghost-000?style=for-the-badge&logo=ghost&logoColor=yellow)]([https://your-blog-link.com](https://yerin-gwak.ghost.io/ghost/#/site)
 
 
 ![follow](https://img.shields.io/github/followers/yerin1562.svg?style=social&label=Follow&maxAge=2592000)
