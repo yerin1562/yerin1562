@@ -9,9 +9,7 @@
 [![blog](https://img.shields.io/badge/Ghost-000?style=for-the-badge&logo=ghost&logoColor=yellow)](https://yerin-gwak.ghost.io/ghost/#/site)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yerin1562)](https://github.com/yerin1562/yerin1562)
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yerin1562)](https://github.com/yerin1562/yerin1562)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yerin1562)](https://github.com/yerin1562/yerin1562) [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yerin1562)](https://github.com/yerin1562/yerin1562)
 
 
 
