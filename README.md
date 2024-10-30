@@ -8,9 +8,8 @@
 [![blog](https://img.shields.io/badge/Ghost-000?style=for-the-badge&logo=ghost&logoColor=yellow)](https://yerin-gwak.ghost.io/ghost/#/site)
 
 
-![follow](https://img.shields.io/github/followers/yerin1562.svg?style=social&label=Follow&maxAge=2592000)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yerin1562)](https://github.com/yerin1562/yerin1562)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/yerin1562/yerin1562)
 
 
 
