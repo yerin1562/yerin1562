@@ -1,6 +1,6 @@
 ## Welcome! It's Yerin 🔆
 
-	![js](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![js](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 #### Skills:
 - python
