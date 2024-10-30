@@ -5,8 +5,7 @@
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white) ![linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  	![django](]https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) ![flsask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) ![aws](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) ![excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) ![word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white) ![powerpoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white) 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Eyes.png" alt="Eyes" width="2%" /> 
 
-
-[![blog](https://img.shields.io/badge/Ghost-000?style=for-the-badge&logo=ghost&logoColor=yellow)]((https://yerin-gwak.ghost.io/ghost/#/site))
+[![blog](https://img.shields.io/badge/Ghost-000?style=for-the-badge&logo=ghost&logoColor=yellow)](https://yerin-gwak.ghost.io/ghost/#/site)
 
 
 ![follow](https://img.shields.io/github/followers/yerin1562.svg?style=social&label=Follow&maxAge=2592000)
