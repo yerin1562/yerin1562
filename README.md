@@ -10,8 +10,8 @@
 
 ![follow](https://img.shields.io/github/followers/yerin1562.svg?style=social&label=Follow&maxAge=2592000)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/yerin1562/yerin1562)
+
 
 
 
