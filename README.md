@@ -8,7 +8,7 @@
 
 ![blog](https://img.shields.io/badge/Ghost-000?style=for-the-badge&logo=ghost&logoColor=yellow)
 
-![follow](https://img.shields.io/github/followers/{yerin1562}.svg?style=social&label=Follow&maxAge=2592000)
+![follow](https://img.shields.io/github/followers/{yeringwak}.svg?style=social&label=Follow&maxAge=2592000)
 #### Skills:
 
 - FastAPI
