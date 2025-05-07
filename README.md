@@ -6,6 +6,7 @@
 
 
 ##### Interests: 
+- Cloud-based Solutions
 - Climate Change
 - ESG Management
 
